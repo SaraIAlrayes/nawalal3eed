@@ -506,13 +506,10 @@ body {
 }
 
 @media (max-width: 1025px) {
-  .left-pattren {
+  .left-pattren, .center-pattren, .right-pattren {
     display: none;
   }
 
-  .right-pattren {
-    display: none;
-  }
 }
 
 @media (max-width: 768px) {
